@@ -1,4 +1,4 @@
-# openstreetmap
+# Open Street Map
 
 ## Area of Study
 New Orleans
